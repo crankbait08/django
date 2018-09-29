@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+env
+db.sqlite3
+/static
+.DS_Store
+BigCommerceAPI-credentials-2vzjhpfw7seqa3ccr38bbp88e44rb7g-.txt
